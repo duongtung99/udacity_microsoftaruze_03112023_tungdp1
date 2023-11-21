@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "testhub", 
-	  "connection": "Endpoint=sb://prrj2tantv.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=4h1LPqLAbd5BMuBcz/ErORZpO8gnjPSnX+AEhDtbPQc="
+	  "connection": "Endpoint=sb://duongpheventhub.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=gDEcdmDfJ50SBi/xJDAMrnia7Y/cUGPVE+AEhP3UEoA="
     }
   ]
 }
